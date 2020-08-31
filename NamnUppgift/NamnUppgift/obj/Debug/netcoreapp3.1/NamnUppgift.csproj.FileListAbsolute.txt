@@ -1,0 +1,13 @@
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\bin\Debug\netcoreapp3.1\NamnUppgift.exe
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\bin\Debug\netcoreapp3.1\NamnUppgift.deps.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\bin\Debug\netcoreapp3.1\NamnUppgift.runtimeconfig.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\bin\Debug\netcoreapp3.1\NamnUppgift.runtimeconfig.dev.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\bin\Debug\netcoreapp3.1\NamnUppgift.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\bin\Debug\netcoreapp3.1\NamnUppgift.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\obj\Debug\netcoreapp3.1\NamnUppgift.csprojAssemblyReference.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\obj\Debug\netcoreapp3.1\NamnUppgift.AssemblyInfoInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\obj\Debug\netcoreapp3.1\NamnUppgift.AssemblyInfo.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\obj\Debug\netcoreapp3.1\NamnUppgift.csproj.CoreCompileInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\obj\Debug\netcoreapp3.1\NamnUppgift.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\obj\Debug\netcoreapp3.1\NamnUppgift.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\NamnUppgift\NamnUppgift\obj\Debug\netcoreapp3.1\NamnUppgift.genruntimeconfig.cache
