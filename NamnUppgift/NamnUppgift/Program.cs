@@ -53,7 +53,7 @@ namespace NamnUppgift
                 Console.WriteLine("Du är ganska ung, grattis! Du är:" + age + "år gammal");
             }
 
-            for(var i = 0; i > 10; i++)
+            for(var i = 0; i < 10; i++)
             {
                 Console.WriteLine(i);
 
