@@ -1,0 +1,13 @@
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

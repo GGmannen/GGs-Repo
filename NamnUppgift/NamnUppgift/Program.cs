@@ -84,7 +84,22 @@ namespace NamnUppgift
 
             }
 
-            Console.WriteLine("Slut!");
+            var names = new string[5];
+            Console.WriteLine("Ange ett namn och tryck enter mellan varje 5 gånger.");
+
+            for (int i = 0; i < names.Length; i++)
+            {
+                names[i] = Console.ReadLine();
+
+            }
+
+            for (int i = names.Length; i > 0; i--)
+            {
+
+                Console.WriteLine(names[i]);
+
+            }
+
         }
     }
 }
