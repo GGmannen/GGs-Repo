@@ -1,0 +1,13 @@
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Program\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
