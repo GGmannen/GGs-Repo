@@ -6,10 +6,23 @@ namespace Program
 {
     class Product
     {
-        public string _name;
         public string _banana = "banana";
         public string _avocado = "avocado";
+        public string _fish = "fish";
 
 
     }
+
+    class ProductChild : Product
+    {
+        public string _bananaFresh = "Yellow banana";
+
+        public string _bananaBad = "Brown banana";
+
+
+
+    }
+
+
+
 }
