@@ -1,0 +1,19 @@
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\bin\Debug\netcoreapp3.1\Calculator lab.exe
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\bin\Debug\netcoreapp3.1\Calculator lab.deps.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\bin\Debug\netcoreapp3.1\Calculator lab.runtimeconfig.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\bin\Debug\netcoreapp3.1\Calculator lab.runtimeconfig.dev.json
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\bin\Debug\netcoreapp3.1\Calculator lab.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\bin\Debug\netcoreapp3.1\Calculator lab.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.csprojAssemblyReference.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab_MarkupCompile.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab_MarkupCompile.lref
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.g.resources
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.AssemblyInfoInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.AssemblyInfo.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.csproj.CoreCompileInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.dll
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Calculator lab\Calculator lab\obj\Debug\netcoreapp3.1\Calculator lab.genruntimeconfig.cache
