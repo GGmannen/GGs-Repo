@@ -27,8 +27,13 @@ namespace Calculator
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+
+            
+
             if (sender is Button knapp)
             {
+               
+                
                 switch (knapp.Content)
                 {
                     case "0":
@@ -46,6 +51,45 @@ namespace Calculator
 
 
                     case "+":
+                        text1.Text += "+";
+                        break;
+
+                    case "-":
+                        text1.Text += "-";
+                        break;
+
+                    case "C":
+                        text1.Text = "";
+                        break;
+
+                    case "=":
+                    
+                        if (text1.Text.Contains("+"))
+                        {
+                            var Result = 0.0;
+                            var Texten = text1.Text.Split("+");
+                            var firstNumber = Convert.ToDouble(Texten[0]);
+                            var secondNumber = Convert.ToDouble(Texten[1]);
+                            Result = firstNumber + secondNumber;
+                            text1.Text = Result + "";
+                        }
+
+                        else if (text1.Text.Contains("-"))
+                        {
+                            var Result = 0.0;
+                            var Texten = text1.Text.Split("-");
+                            var firstNumber = Convert.ToDouble(Texten[0]);
+                            var secondNumber = Convert.ToDouble(Texten[1]);
+                            Result = firstNumber - secondNumber;
+                            text1.Text = Result + "";
+                        }
+                        
+
+                       
+
+
+
+                        
 
                         break;
 
