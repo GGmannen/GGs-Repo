@@ -79,69 +79,84 @@ namespace Calculator
                         text1.Text = "";
                         break;
 
+                    case "":
+                        text1.Text = "Niklas best teacher?";
+                        break;
+
                     case "=":
 
 
-                        if (text1.Text.Contains("+"))
-                        {
-                            var Result = 0.0;
-                            var Texten = text1.Text.Split("+");
-                            var firstNumber = Convert.ToDouble(Texten[0]);
-                            var secondNumber = Convert.ToDouble(Texten[1]);
-                            Result = firstNumber + secondNumber;
-                            text1.Text = Result + "";
-                        }
-
-                        else if (text1.Text.Contains("-"))
-                        {
-                            var Result = 0.0;
-                            var Texten = text1.Text.Split("-");
-                            var firstNumber = Convert.ToDouble(Texten[0]);
-                            var secondNumber = Convert.ToDouble(Texten[1]);
-                            Result = firstNumber - secondNumber;
-                            text1.Text = Result + "";
-                        }
-
-                        else if (text1.Text.Contains("÷"))
-                        {
-                            var Result = 0.0;
-                            var Texten = text1.Text.Split("÷");
-                            var firstNumber = Convert.ToDouble(Texten[0]);
-                            var secondNumber = Convert.ToDouble(Texten[1]);
-                            Result = firstNumber / secondNumber;
-                            text1.Text = Result + "";
-                        }
-
-                        else if (text1.Text.Contains("x"))
-                        {
-                            var Result = 0.0;
-                            var Texten = text1.Text.Split("x");
-                            var firstNumber = Convert.ToDouble(Texten[0]);
-                            var secondNumber = Convert.ToDouble(Texten[1]);
-                            Result = firstNumber * secondNumber;
-                            text1.Text = Result + "";
-                        }
-
-                        else if (text1.Text.Contains("^"))
-                        {
-                            var Result = 0.0;
-                            var Texten = text1.Text.Split("^");
-                            var firstNumber = Convert.ToDouble(Texten[0]);
-                            var secondNumber = Convert.ToDouble(Texten[1]);
-                            Result =  Math.Pow( firstNumber , secondNumber);
-                            text1.Text = Result + "";
-                        }
-
-                        else if (text1.Text.Contains("√"))
-                        {
-                            var Result = 0.0;
-                            var Texten = text1.Text.Split("√");
-                            var secondNumber = Convert.ToDouble(Texten[1]);
-                            Result = Math.Sqrt(secondNumber);
-                            text1.Text = Result + "";
-                        }
+                        
 
 
+                            if (text1.Text.Contains("+"))
+                            {
+                                var Result = 0.0;
+                                var Texten = text1.Text.Split("+");
+                                var firstNumber = Convert.ToDouble(Texten[0]);
+                                var secondNumber = Convert.ToDouble(Texten[1]);
+                                Result = firstNumber + secondNumber;
+                            if (Result == 69.0)
+                            {
+                                text1.Text = "Nice";
+                                break;
+                            }
+                            else
+                            {
+                                text1.Text = Result + "";
+                            }
+                            }
+
+                            else if (text1.Text.Contains("-"))
+                            {
+                                var Result = 0.0;
+                                var Texten = text1.Text.Split("-");
+                                var firstNumber = Convert.ToDouble(Texten[0]);
+                                var secondNumber = Convert.ToDouble(Texten[1]);
+                                Result = firstNumber - secondNumber;
+                                text1.Text = Result + "";
+                            }
+
+                            else if (text1.Text.Contains("÷"))
+                            {
+                                var Result = 0.0;
+                                var Texten = text1.Text.Split("÷");
+                                var firstNumber = Convert.ToDouble(Texten[0]);
+                                var secondNumber = Convert.ToDouble(Texten[1]);
+                                Result = firstNumber / secondNumber;
+                                text1.Text = Result + "";
+                            }
+
+                            else if (text1.Text.Contains("x"))
+                            {
+                                var Result = 0.0;
+                                var Texten = text1.Text.Split("x");
+                                var firstNumber = Convert.ToDouble(Texten[0]);
+                                var secondNumber = Convert.ToDouble(Texten[1]);
+                                Result = firstNumber * secondNumber;
+                                text1.Text = Result + "";
+                            }
+
+                            else if (text1.Text.Contains("^"))
+                            {
+                                var Result = 0.0;
+                                var Texten = text1.Text.Split("^");
+                                var firstNumber = Convert.ToDouble(Texten[0]);
+                                var secondNumber = Convert.ToDouble(Texten[1]);
+                                Result = Math.Pow(firstNumber, secondNumber);
+                                text1.Text = Result + "";
+                            }
+
+                            else if (text1.Text.Contains("√"))
+                            {
+                                var Result = 0.0;
+                                var Texten = text1.Text.Split("√");
+                                var secondNumber = Convert.ToDouble(Texten[1]);
+                                Result = Math.Sqrt(secondNumber);
+                                text1.Text = Result + "";
+                            }
+
+                        
 
 
 
