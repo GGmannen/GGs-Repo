@@ -15,6 +15,7 @@
             <ColumnDefinition Width="5*"/>
             <ColumnDefinition Width="5*"/>
             <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="5*"/>
 
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
@@ -29,8 +30,8 @@
 
 
 
-        <TextBlock Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="6" Grid.RowSpan="8" Background="Gray"></TextBlock>
-        <TextBlock Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="4" Background="Coral" Opacity="0.6" FontSize="25" x:Name="text1"></TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="7" Grid.RowSpan="8" Background="Gray"></TextBlock>
+        <TextBlock Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="5s" Background="Coral" Opacity="0.6" FontSize="25" x:Name="text1"></TextBlock>
         <Button Grid.Column="1" Grid.Row="2" Content="7" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="1" Grid.Row="3" Content="4" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="1" Grid.Row="4" Content="1" FontSize="70" Click="Button_Click"></Button>
@@ -41,14 +42,17 @@
         <Button Grid.Column="3" Grid.Row="3" Content="6" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="3" Grid.Row="4" Content="3" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="2" Grid.Row="5" Content="0" FontSize="70" Click="Button_Click"></Button>
-        
-        
+
+        <Button Grid.Column="5" Grid.Row="4" Content="," FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="3" Grid.Row="5" Content="+" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="1" Grid.Row="5" Content="C" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="4" Grid.Row="2" Content="÷" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="4" Grid.Row="3" Content="x" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="4" Grid.Row="4" Content="-" FontSize="70" Click="Button_Click"></Button>
         <Button Grid.Column="4" Grid.Row="5" Content="=" FontSize="70" Click="Button_Click"></Button>
+        <Button Grid.Column="5" Grid.Row="2" Content="√" FontSize="70" Click="Button_Click"></Button>
+        <Button Grid.Column="5" Grid.Row="3" Content="^" FontSize="70" Click="Button_Click"></Button>
+        
         
         
         
