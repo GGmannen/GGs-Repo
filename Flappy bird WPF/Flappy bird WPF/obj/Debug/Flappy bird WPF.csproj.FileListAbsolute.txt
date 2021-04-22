@@ -1,0 +1,15 @@
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\bin\Debug\Flappy bird WPF.exe.config
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\bin\Debug\Flappy bird WPF.exe
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\bin\Debug\Flappy bird WPF.pdb
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF.csprojAssemblyReference.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\MainWindow.g.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\App.g.cs
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF_MarkupCompile.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF_MarkupCompile.lref
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\MainWindow.baml
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF.g.resources
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy_bird_WPF.Properties.Resources.resources
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF.csproj.GenerateResource.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF.csproj.CoreCompileInputs.cache
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF.exe
+C:\Users\gustav.loof\Documents\GitHub\GGs-Repo\Flappy bird WPF\Flappy bird WPF\obj\Debug\Flappy bird WPF.pdb

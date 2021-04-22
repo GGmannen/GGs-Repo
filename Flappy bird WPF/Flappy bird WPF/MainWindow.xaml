@@ -9,6 +9,7 @@
     <Canvas Name="MyCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" Background="LightBlue">
 
         <Image Height="145" Width="200" Source="images/clouds.png" Canvas.Left="0" Canvas.Top="102" Tag="cloud"/>
+        <Image Height="145" Width="200" Source="images/clouds2.png" Canvas.Left="215" Canvas.Top="126" Tag="cloud"/>
 
         <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs1"  Canvas.Left="85" Canvas.Top="208"/>
         <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs1"  Canvas.Left="85" Canvas.Top="-288"/>
