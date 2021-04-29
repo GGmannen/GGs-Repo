@@ -47,9 +47,14 @@ namespace Flappy_bird_WPF
         {
             txtScore.Content = "Score " + score;
 
-            flappyBirdHitBox = new Rect(Canvas.GetLeft(flappyBird), Canvas.GetTop(flappyBird), flappyBird.Width, flappyBird.Height);
+            flappyBirdHitBox = new Rect(Canvas.GetLeft(flappyBird), Canvas.GetTop(flappyBird), flappyBird.Width - 8, flappyBird.Height - 30);
 
             Canvas.SetTop(flappyBird, Canvas.GetTop(flappyBird) + gravity);
+
+            if (Canvas.GetTop(flappyBird) < - 10 || Canvas.GetTop(flappyBird) > 458)
+            {
+                EndGame();
+            }
 
             foreach (var x in MyCanvas.Children.OfType<Image>())
             {
@@ -65,8 +70,27 @@ namespace Flappy_bird_WPF
                         score += .5;
                     }
 
-                    Rect pipeHitBox = new Rect(Canvas.GetLeft(flappyBird), Canvas.GetTop(flappyBird), flappyBird.Width, flappyBird.Height);
+                    Rect pipeHitBox = new Rect(Canvas.GetLeft(x), Canvas.GetTop(x), x.Width, x.Height);
 
+                    if (flappyBirdHitBox.IntersectsWith(pipeHitBox))
+                    {
+                        EndGame();
+
+                    }
+
+                }
+
+                if ((string)x.Tag == "cloud")
+                {
+
+                    Canvas.SetLeft(x, Canvas.GetLeft(x) - 2);
+
+                    if (Canvas.GetLeft(x) < -250)
+                    {
+                        Canvas.SetLeft(x, 550);
+
+
+                    }
 
                 }
 
@@ -149,6 +173,10 @@ namespace Flappy_bird_WPF
 
         private void EndGame()
         {
+
+            gameTimer.Stop();
+            gameOver = true;
+            txtScore.Content += " Game over !! Press R to try again";
 
         }
 
