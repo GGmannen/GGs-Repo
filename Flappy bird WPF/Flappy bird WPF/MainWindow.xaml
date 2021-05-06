@@ -12,17 +12,19 @@
         <Image Height="145" Width="200" Source="images/clouds2.png" Canvas.Left="215" Canvas.Top="126" Tag="cloud"/>
 
         <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs1"  Canvas.Left="85" Canvas.Top="208"/>
-        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs1"  Canvas.Left="85" Canvas.Top="-288"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs1"  Canvas.Left="85" Canvas.Top="-332"/>
 
-        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs2"  Canvas.Left="245" Canvas.Top="293"/>
-        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs2"  Canvas.Left="245" Canvas.Top="-228"/>
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs2"  Canvas.Left="245" Canvas.Top="357"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs2"  Canvas.Left="245" Canvas.Top="-195"/>
 
-        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs3"  Canvas.Left="420" Canvas.Top="248"/>
-        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs3"  Canvas.Left="420" Canvas.Top="-249"/>
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs3"  Canvas.Left="420" Canvas.Top="309"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs3"  Canvas.Left="420" Canvas.Top="-228"/>
 
         <Image Name="flappyBird" Height="36" Width="50" Source="images/flappyBird.png" Stretch="Fill" Canvas.Left="10" Canvas.Top="126"/>
 
         <Label Name="txtScore" FontSize="22" FontWeight="ExtraBold" Content="Score: 0"/>
+
+        <Label Name="txtMenu" FontSize="22" FontWeight="ExtraBold" Content=""/>
 
     </Canvas>
 </Window>
